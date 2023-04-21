@@ -1,0 +1,15 @@
+2023-03-08T10:56:47.5204803 I/O error on POST request for "http://localhost:8080/register": Connection refused: connect; nested exception is java.net.ConnectException: Connection refused: connect
+2023-03-08T11:13:06.7907416 I/O error on POST request for "http://localhost:8080/register": Connection refused: connect; nested exception is java.net.ConnectException: Connection refused: connect
+2023-03-08T11:13:16.3010456 I/O error on POST request for "http://localhost:8080/login": Connection refused: connect; nested exception is java.net.ConnectException: Connection refused: connect
+2023-03-08T11:26:05.482637 I/O error on POST request for "http://localhost:8080/register": Connection refused: connect; nested exception is java.net.ConnectException: Connection refused: connect
+2023-03-08T11:31:29.9809822 I/O error on POST request for "http://localhost:8080/register": Connection refused: connect; nested exception is java.net.ConnectException: Connection refused: connect
+2023-03-08T11:31:53.9668655 I/O error on POST request for "http://localhost:8080/login": Connection refused: connect; nested exception is java.net.ConnectException: Connection refused: connect
+2023-03-08T11:34:30.9781212 I/O error on POST request for "http://localhost:8080/register": Connection refused: connect; nested exception is java.net.ConnectException: Connection refused: connect
+2023-03-08T12:40:55.0751625 500 : [{"timestamp":"2023-03-08T17:40:55.056+00:00","status":500,"error":"Internal Server Error","message":"PreparedStatementCallback; SQL [INSERT INTO tenmo_user (username, password_hash) VALUES (?, ?) RETU... (532 bytes)]
+2023-03-08T12:42:31.1019113 500 : [{"timestamp":"2023-03-08T17:42:31.071+00:00","status":500,"error":"Internal Server Error","message":"PreparedStatementCallback; SQL [INSERT INTO tenmo_user (username, password_hash) VALUES (?, ?) RETU... (532 bytes)]
+2023-03-08T12:42:58.9221531 500 : [{"timestamp":"2023-03-08T17:42:58.906+00:00","status":500,"error":"Internal Server Error","message":"PreparedStatementCallback; SQL [INSERT INTO tenmo_user (username, password_hash) VALUES (?, ?) RETU... (532 bytes)]
+2023-03-08T15:46:30.7983894 404 : [{"timestamp":"2023-03-08T20:46:30.781+00:00","status":404,"error":"Not Found","message":"No message available","path":"/account/balance"}]
+2023-03-08T16:12:32.4927352 404 : [{"timestamp":"2023-03-08T21:12:32.475+00:00","status":404,"error":"Not Found","message":"No message available","path":"/account/balance"}]
+2023-03-08T23:06:53.6928529 404 : [{"timestamp":"2023-03-09T04:06:53.665+00:00","status":404,"error":"Not Found","message":"No message available","path":"/balance"}]
+2023-03-08T23:08:38.5544604 404 : [{"timestamp":"2023-03-09T04:08:38.533+00:00","status":404,"error":"Not Found","message":"No message available","path":"/balance"}]
+2023-03-08T23:19:06.6547072 404 : [{"timestamp":"2023-03-09T04:19:06.638+00:00","status":404,"error":"Not Found","message":"No message available","path":"/balance"}]

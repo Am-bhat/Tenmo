@@ -1,0 +1,4 @@
+2023-03-12T21:52:37.7942116 404 : [{"timestamp":"2023-03-13T01:52:37.777+00:00","status":404,"error":"Not Found","message":"No message available","path":"/balance/1001"}]
+2023-03-12T21:52:42.2021167 404 : [{"timestamp":"2023-03-13T01:52:42.194+00:00","status":404,"error":"Not Found","message":"No message available","path":"/balance/1001"}]
+2023-03-12T21:58:34.6058716 500 : [{"timestamp":"2023-03-13T01:58:34.597+00:00","status":500,"error":"Internal Server Error","message":"Failed to evaluate expression 'isAuthenticated'","path":"/balance/1001"}]
+2023-03-12T21:58:37.7093643 500 : [{"timestamp":"2023-03-13T01:58:37.693+00:00","status":500,"error":"Internal Server Error","message":"Failed to evaluate expression 'isAuthenticated'","path":"/balance/1001"}]
